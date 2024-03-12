@@ -66,7 +66,7 @@ https://srtv.my.id/vd/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6317&type=drm
 https://srtv.my.id/vd/play.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="TV BALAP" tvg-logo="https://i.postimg.cc/3w89xkfL/20240210-162216.png", SBS SPORT
+#EXTINF:-1 group-title="ADMIN GANTENG" tvg-logo="https://i.postimg.cc/3w89xkfL/20240210-162216.png", SBS SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
 http://176868.cloud/acff8aaa96f54dad248968b413d29c44/a2142e9e39fcb740164dc9a0e031727e/4aedb74052b45637fee91842fd47f2c0/index.m3u8
 
@@ -2532,4 +2532,5 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 https://stream.lokermusik.com:8420/lokermusik
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/pimbes.png", Pimbes
 https://sv.rajamediautama.my.id/listen/station_4/radio
+
 
