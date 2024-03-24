@@ -70,7 +70,7 @@ https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/
 #EXTINF:-1 group-title="FSI-TV" tvg-id="Trans7.id" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x197:1268x975/x/photo/2020/10/16/839802574.png", ADMIN GANTENG LIVE MOTOGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 #EXTVLCOPT:http-referrer=https://sevenhub.id/live
-https://arjuna.trans7.co.id/Trans7-L1v3stream/tracks-v1a1/mono.m3u8
+https://arjuna.trans7.co.id/Trans7-L1v3stream/index.m3u8
 
 #EXTINF:-1 group-title="FSI-TV" tvg-id="eurosports.uk" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png", EUROSPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
@@ -140,61 +140,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427
 
 /////////////////////////////  ALL INDOSIAR
 ================================
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar_xtv
-https://s.id/indosiar_xtv-shareext-ts
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar_HD_XTV
-http://xtv.ooo:8080/3212571066/abc123/350972
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar|hdd
-http://iptvtree.net:8080/F14995/a84c0963/162138
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar|test
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar|alfax
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar_HD_z
-https://link.zozotv.xyz:443/Rina923/390023/45
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar_HD_621
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar_HD_Digital
-https://dik.si/Indosiar_shareext-ts
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar_id
-https://s.id/indosiar_shareext-ts
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar_xtra
-https://s.id/indosiar-xtra_shareext-ts
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", [ID]Indosiar~
-http://iptvtree.net:8080/everton/7def2e7e/162138
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar_(ott/televizo)
 http://bit.ly/indosiar_shareext-ts|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", INDOSIAR~
-https://s.id/indosiar_shareext-ts
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar (CubMu)
-https://servicebuss.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar
-http://iptvtree.net:8080/everton/7def2e7e/162138
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", Indosiar
-http://iptvtree.net:8080/F14995/a84c0963/162138
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", INDOSIAR
-http://rr.dens.tv/h/h207/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ALL INDOSIAR", INDOSIAR_swift
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 
